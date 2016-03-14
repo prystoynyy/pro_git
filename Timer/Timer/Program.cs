@@ -13,7 +13,7 @@ namespace Timer
 {
     class Program
     {
-
+        //Test comment
         static void Main(string[] args)
         {
             var command = "";
